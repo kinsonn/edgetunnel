@@ -1,3 +1,4 @@
+# 自动升级
 # 🚀 edgetunnel 2.1
 ![后台页面](./img.png)
 
